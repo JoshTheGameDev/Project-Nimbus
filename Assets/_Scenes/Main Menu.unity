@@ -2550,7 +2550,7 @@ MonoBehaviour:
     - {fileID: 927299113}
     - {fileID: 2000059785}
     - {fileID: 33340306835827894, guid: 9d1d6478d569d2b4db63f0f134c4fc8e, type: 2}
-    - {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
+    - {fileID: 0}
     - {fileID: 2100000, guid: 28057aa99b90c4845a239f271eb71ff1, type: 2}
     - {fileID: 927299115}
     - {fileID: 4664489566483928, guid: 9d1d6478d569d2b4db63f0f134c4fc8e, type: 2}
@@ -2744,7 +2744,7 @@ Camera:
   m_GameObject: {fileID: 1404027629}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 2
+  m_ClearFlags: 1
   m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
