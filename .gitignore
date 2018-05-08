@@ -1,1 +1,17 @@
 Temp/
+.vs/
+Unity.TextMeshPro.Tests.csproj
+Unity.TextMeshPro.Editor.Tests.csproj
+Unity.ShaderGraph.Editor.csproj
+Unity.ProGrids.RuntimeTests.csproj
+Unity.ProGrids.Editor.Tests.csproj
+Unity.ProGrids.Editor.csproj
+Unity.ProGrids.csproj
+Unity.PackageManagerUI.EditorTests.csproj
+com.unity.render-pipelines.lightweight.Runtime.csproj
+com.unity.render-pipelines.lightweight.Editor.csproj
+com.unity.render-pipelines.core.Runtime.csproj
+com.unity.render-pipelines.core.IncludePaths.csproj
+com.unity.render-pipelines.core.Editor.csproj
+com.unity.postprocessing.Runtime.csproj
+com.unity.postprocessing.Editor.csproj
