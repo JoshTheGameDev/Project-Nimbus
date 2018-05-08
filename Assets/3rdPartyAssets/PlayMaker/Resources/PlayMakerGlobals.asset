@@ -19,6 +19,12 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: 0
+    - useVariable: 1
+      name: pSpeed
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 1
     intVariables:
     - useVariable: 1
       name: QualitySelect
@@ -26,8 +32,32 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: 0
-    boolVariables: []
-    stringVariables: []
+    boolVariables:
+    - useVariable: 1
+      name: pCanMove
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 1
+    stringVariables:
+    - useVariable: 1
+      name: UserBuiltString
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 
+    - useVariable: 1
+      name: UserDataEntry
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 
+    - useVariable: 1
+      name: UserTextEntry
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 
     vector2Variables:
     - useVariable: 1
       name: Cloud Vec2
@@ -47,5 +77,5 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 000000000000000000000000
+    variableCategoryIDs: 0000000000000000000000000000000000000000000000000000000000000000
   events: []

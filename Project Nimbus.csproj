@@ -2110,6 +2110,10 @@
     <Compile Include="Assets\3rdPartyAssets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
     <Compile Include="Assets\3rdPartyAssets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
     <Compile Include="Assets\3rdPartyAssets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
+    <Compile Include="Assets\PlayMaker Custom Actions\Files\DeleteFile.cs" />
+    <Compile Include="Assets\PlayMaker Custom Actions\Input\AnyKeyStoreString.cs" />
+    <Compile Include="Assets\PlayMaker Custom Actions\Input\GetKeyCodeToString.cs" />
+    <Compile Include="Assets\PlayMaker Custom Actions\Mesh\SetTextMech.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\3rdPartyAssets\Behavior Designer\Editor\GridShader.shader" />
