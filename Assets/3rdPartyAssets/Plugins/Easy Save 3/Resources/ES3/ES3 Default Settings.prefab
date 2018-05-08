@@ -54,8 +54,8 @@ MonoBehaviour:
   settings:
     _location: 0
     path: SaveData.es3
-    encryptionType: 1
-    encryptionPassword: 514573
+    encryptionType: 0
+    encryptionPassword: password
     directory: 0
     format: 0
     bufferSize: 2048
